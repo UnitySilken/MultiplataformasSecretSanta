@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/FistLevel.unity
+    guid: aa0c062cf277f4140909af03fb531c26
+  - enabled: 1
+    path: Assets/Scenes/SecondScene.unity
+    guid: c65fecd5eff2d274aa1f3215f623ad1c
+  - enabled: 1
+    path: Assets/Scenes/ThirdScene.unity
+    guid: b0cac22726c68784ca5fb6ca0156927e
+  - enabled: 1
+    path: Assets/Scenes/BossLevel.unity
+    guid: 4bc9fd552e10ab04fb6b8a5132fd94ae
+  - enabled: 1
+    path: Assets/Scenes/IceLevel1.unity
+    guid: df26bd9f237193446981b702801395ba
+  m_configObjects: {}
